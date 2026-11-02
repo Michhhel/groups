@@ -1,0 +1,57 @@
+GROUPS — Des groupes équitables, en quelques clics
+===================================================
+
+À QUOI ÇA SERT
+Répartir une liste de personnes en groupes, au hasard et de façon juste.
+Résultat : un fichier .txt prêt à partager.
+
+UTILISER (4 étapes)
+1. Ouvrir Groups.
+2. Liste : coller les noms (un par ligne) OU "Importer Excel / Word / .txt".
+   La liste est mémorisée : vous ne la ressaisissez plus jamais.
+3. Choisir : "Nombre de groupes" OU "Max par groupe", puis le nombre.
+   L'aperçu montre le résultat (ex. "7 de 5 et 3 de 4").
+4. "Générer les groupes", puis "Télécharger .txt" (ou Copier / Partager).
+   Pas content du tirage ? "Refaire".
+
+OPTIONS UTILES
+- Absent : touchez un nom (outil "Absent") — il est ignoré pour ce tirage.
+- Chef : outil "Chef", touchez les noms. Il y aura un groupe par chef ;
+  les autres sont répartis au hasard entre les chefs.
+- Joker : outil "Joker". Les jokers sont répartis le plus équitablement
+  possible (moins de jokers que de groupes : certains groupes n'en ont pas ;
+  plus de jokers que de groupes : certains en ont plusieurs).
+- Plusieurs classes : bouton "+ Liste", puis choisissez-la dans le menu.
+- Lien de la liste : copie un lien ; quiconque l'ouvre reçoit la liste.
+- Options : titre du document, format WhatsApp (gras), téléchargement
+  automatique du .txt (1 seul clic pour tout faire).
+- Ctrl + Entrée = Générer.
+
+INSTALLER
+Sur PC (sans Internet) : ouvrir index.html avec Chrome > menu ⋮ >
+  Enregistrer et partager > Créer un raccourci > cocher "Ouvrir dans une
+  fenêtre". Une icône apparaît sur le Bureau.
+Sur téléphone / PC (recommandé), à faire une seule fois :
+  1. Créer un compte sur github.com, nouveau dépôt public "groups".
+  2. "Add file > Upload files" : déposer TOUS les fichiers du dossier.
+  3. Settings > Pages > Branch : main > Save. Après 1-2 minutes, le lien
+     https://VOTRE-NOM.github.io/groups/ apparaît.
+  4. Ouvrir ce lien. PC : bouton "Installer l'app". Android : menu ⋮ >
+     "Installer l'application". iPhone : Safari > Partager > "Sur l'écran
+     d'accueil". Ensuite l'app marche même sans Internet.
+
+CONFIDENTIALITÉ
+Tout se passe dans votre appareil. Aucun nom n'est envoyé sur Internet,
+même avec la version en ligne : chacun a sa propre liste, privée.
+(Vider les données du navigateur efface vos listes : gardez vos fichiers.)
+
+EN CAS DE PROBLÈME
+- Excel/Word mal lu : coller plutôt la colonne des noms dans la liste.
+- Les noms doivent être uniques ; les doublons sont ignorés.
+- L'app ne s'ouvre pas : utiliser Chrome, Edge, Firefox ou Safari récents.
+
+
+
+
+
+                                                            By Michhhel ;)
